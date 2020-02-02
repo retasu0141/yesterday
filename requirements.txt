@@ -1,0 +1,16 @@
+certifi==2019.11.28
+Click==7.0
+Cython==0.29.14
+dyNET==2.1
+Flask==1.1.1
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+nagisa==0.2.5
+numpy==1.18.1
+pipenv==2018.11.26
+six==1.14.0
+virtualenv==16.7.9
+virtualenv-clone==0.5.3
+Werkzeug==0.16.1
